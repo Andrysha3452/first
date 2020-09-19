@@ -3,8 +3,8 @@
 include "vk_api.php"; 
 
 
-const VK_KEY = "7c2fd9da50000344e740f0af5b3df46c2c7ab88a3da669c22341019053530007103d574d3cc0184766587";  // Токен сообщества
-const ACCESS_KEY = "39ae8162";  // Тот самый ключ из сообщества 
+const VK_KEY = "edcea0872f2c137a578c61d490abc2156657ca12ba0d12b1e95b3cb62025e3a4bd61aef8a94da85123d58";  // Токен сообщества
+const ACCESS_KEY = "9b5a43be";  // Тот самый ключ из сообщества 
 const VERSION = "5.81"; // Версия API VK
 
 
