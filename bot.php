@@ -9,7 +9,7 @@ function vk_msg_send($peer_id, $text){
       'attachment' => $attachment,
       'peer_id' => $peer_id,
       'access_token' => 'de69dabf296d0339209ab0aa1cccd7851f78a752dcb75a947656786dd10ce863da0270bb683c23a71b825',
-      'v' => '5.89'
+      'v' => '5.124'
     );
     
     $get_params = http_build_query($request_params); 
